@@ -2,6 +2,7 @@
 
 
 ## Repo Roles
+- Each branch contains a database and everything else related to that database
 - Each folder starts with a "db_" represent a database 
 - Each database folder name should end with the dbms used for the database eg. db_<database_name>_mysql
 - Each database folder contains a file named 'main.sql' and two folders named 'schema', 'queries'
